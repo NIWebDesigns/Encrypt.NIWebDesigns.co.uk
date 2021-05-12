@@ -1,2 +1,0 @@
-- name: screenshot-website
-  uses: swinton/screenshot-website@v1.0.0
